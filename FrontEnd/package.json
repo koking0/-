@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "element-ui": "^2.13.1",
     "popper.js": "^1.16.1",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "vue": "^2.5.2",
     "vue-hot-reload-api": "^2.3.4",
     "vue-router": "^3.0.1",
